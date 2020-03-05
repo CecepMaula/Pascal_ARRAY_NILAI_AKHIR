@@ -1,0 +1,12 @@
+[Project]
+FileName=E:\latihan\array\nilai.dp
+Name=latihan
+MainUnit=E:\latihan\array\indeks.pas
+UnitCount=1
+ResFiles=E:\latihan\array\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=E:\latihan\array\indeks.pas
+FileTime=1267571010
